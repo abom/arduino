@@ -11,5 +11,6 @@ Steps
 ```
 python ledChooser.py
 ```
+you should have pyserial (http://pyserial.sourceforge.net/)
 
 * Choose between A, B and C.
