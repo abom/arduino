@@ -1,5 +1,0 @@
-require 'mkmf'
-
-#have_library('zlib')
-
-create_makefile("x11_sendkey")
